@@ -12,7 +12,7 @@ const Navbar = () => {
         
   
         <h1 className='font-extrabold text-xl'>
-          Salon
+         <img className=' rounded-full bg-cover h-15 w-15 opacity-0.7' src="https://media.istockphoto.com/id/1331061457/vector/luxury-initial-b-scissors.jpg?s=1024x1024&w=is&k=20&c=YS5pa0PC6ts2_vfIvYqNvyyrqYpvnGml33wGuW5WlIk=" alt="" />
         </h1>
 
         
